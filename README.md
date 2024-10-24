@@ -1,5 +1,7 @@
 # Student Performance Analysis
 
+![8741017](https://github.com/user-attachments/assets/b091e3c6-4293-4059-9dbc-ed91b7874ec3)
+
 ## Project Overview
 This project aims to analyze the relationship between students' academic performance in mathematics and various demographic factors. By leveraging statistical techniques and machine learning models, the goal is to identify key factors influencing performance and predict outcomes based on these factors.
 
